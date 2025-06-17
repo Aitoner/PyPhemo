@@ -1,4 +1,4 @@
-![PyPhemo](https://ideal-perch-489.convex.cloud/api/storage/927d3f69-8e90-4069-8f65-76704c8a00d5)
+![PyPhemo](https://discord.com/discovery/applications/1384043071867584604)
 # PyPhemo
 A simple discord bot made to execute Python code in discord
 
